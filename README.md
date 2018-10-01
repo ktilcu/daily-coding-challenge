@@ -15,6 +15,13 @@ variations.
 If I can't think of a problem that seems interesting or fun then I will use one
 distributed by [DailyCodingProblem.com][2] or pull one from [Project Euler][3]
 
+When you have created a working solution please open a pull request!
+
+### PR Comments
+I want to encourage PR comments. I would like them to stay very positive and
+helpful. Our main goal should be teaching something new. If you have a faster
+or better way of doing something then open another PR!
+
 ## Tips
 
 * Think of different time and space complexities
