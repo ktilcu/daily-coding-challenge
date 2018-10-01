@@ -6,7 +6,7 @@ a hundred different ways to solve a single problem. So, for this
 programmers alike to have an easy way to contribute to open source while
 flexing their coding muscles.
 
-# Process
+## Process
 Each day I will submit one coding challenge. I will accept answers to that
 challenge in any language. The hope is that there will be a couple different
 ways to answer any one challenge in a single language and I'd like to see those
@@ -14,6 +14,13 @@ variations.
 
 If I can't think of a problem that seems interesting or fun then I will use one
 distributed by [DailyCodingProblem.com][2] or pull one from [Project Euler][3]
+
+## Tips
+
+* Think of different time and space complexities
+* Think of different ways of solving e.g.: loops vs recursion
+* Add instructions on how to run your solution to the top
+* Try a new language!
 
 [1]: https://hacktoberfest.digitalocean.com
 [2]: https://dailycodingproblem.com
